@@ -7,6 +7,6 @@ In this research , we present a study on fine-tuning a pre-trained T5 language m
 
 ### Files
 
-Dataset includes ~2million quotes including contextual tags, and authors scraped from Goodreads and BrainyQuotes. The folder "scrape" includes the scripts used to scrape the respective sites.
+- Dataset includes ~2million quotes including contextual tags, and authors scraped from Goodreads and BrainyQuotes. The folder "scrape" includes the scripts used to scrape the respective sites.
 
-Basic_Data_Exploration.ipynb contains all the basic exploration done on the quotes dataset.
+- Basic_Data_Exploration.ipynb contains all the basic exploration done on the quotes dataset.
