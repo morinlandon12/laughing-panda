@@ -13,4 +13,6 @@ In this research , we present a study on fine-tuning a pre-trained T5 language m
 - Experiments and evaluation for respective models below
   - T5BaseTrainingEval.ipynb
   - T5BaseandLargeTrain.ipynb
+  - Cross-Attention&Eval.ipynb
+  - T5-small&eval.ipynb
   - distilGPT2.ipynb
